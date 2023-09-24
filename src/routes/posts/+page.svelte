@@ -167,11 +167,12 @@
 				Let every tribe, every tongue
 				<br />Lift their voices as one
 				<br />Singing, "Worthy is the Lamb"
-				<br />We will go in Your name
+			</p>
+			<p class="pt-4">
+				We will go in Your name
 				<br />For Your glory and fame
 				<br />Singing, "Worthy is the Lamb"
 			</p>
-
 			<h3>Verse 2</h3>
 			<p>
 				There's a new song rising
@@ -195,15 +196,49 @@
 
 			<h3>Tag</h3>
 			<p>Worthy is the Lamb</p>
+		</div>
+		<hr class="my-4" />
+		<div class="song">
+			<h2>How Long (Song of the Martyrs)</h2>
 
-			<h3>Outro</h3>
+			<h3>Refrain</h3>
 			<p>
-				Let every tribe, every tongue
-				<br />Lift their voices as one
-				<br />Singing, "Worthy is the Lamb"
-				<br />We will go in Your name
-				<br />For Your glory and fame
-				<br />Singing, "Worthy is the Lamb"
+				How long 'til You come, till You come back?
+				<br />How long 'til You split the sky?
+				<br />How long 'til You come for Your people?
+				<br />How long 'til You make all things right?
+			</p>
+
+			<h3>Verse 1</h3>
+			<p>
+				All the earth is longing for Your soon returning
+				<br />And all creation groans until You come
+				<br />The martyrs cry aloud, “How long, Lord Jesus?”
+				<br />The Spirit and the Bride say, “Come.”
+			</p>
+
+			<h3>Chorus</h3>
+			<p>
+				Come Lord Jesus, come
+				<br />King of glory come
+				<br />Holy and true
+				<br />How long 'til You make all things new?
+			</p>
+
+			<h3>Verse 2</h3>
+			<p>
+				We have overcome by the blood of Jesus
+				<br />The testimony of what God has done
+				<br />We won’t love our lives even unto death for
+				<br />The victory over sin and death’s been won
+			</p>
+
+			<h3>Bridge</h3>
+			<p>
+				This momentary light affliction
+				<br />Is working in me an eternal weight of glory
+				<br />And in the waiting keep me steady
+				<br />Until You come
 			</p>
 		</div>
 	</Post>
