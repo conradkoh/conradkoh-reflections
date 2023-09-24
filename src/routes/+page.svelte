@@ -12,8 +12,8 @@
 		now forgotten.
 	</p>
 	<p>
-		There is still much to be remember. And hopefully to one day be called to recollection by
-		someone.
+		There is still much to be remember. These words bear a hope of a day where they will be called
+		to recollection.
 	</p>
 	<p>
 		This is my recitation, my reflection, my attempt to remember. I hope you find something of use
