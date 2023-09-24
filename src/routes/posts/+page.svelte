@@ -6,6 +6,7 @@
 
 <div class="post-list">
 	<Post title="Maranatha.">
+		<div class="mt-3" />
 		<SongList>
 			<Song>
 				<h2>Sing A New Song</h2>
