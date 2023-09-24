@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply min-h-full font-sans bg-gray-100;
+}
+
+h1 {
+	@apply text-5xl font-bold md:text-3xl;
+}
+
+h2 {
+	@apply text-xl md:text-2xl;
+}
+
+a {
+	@apply no-underline;
+}
+
+a:hover {
+	@apply underline;
+}
