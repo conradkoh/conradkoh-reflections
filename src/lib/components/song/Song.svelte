@@ -1,6 +1,7 @@
 <script lang="ts">
 	import type { SongListContext } from '$lib/components/song/SongListContext';
 	import { getContext, onMount } from 'svelte';
+	import { fade } from 'svelte/transition';
 	let songListCtx = getContext<SongListContext>('songlist');
 	let isPartOfList = songListCtx != null;
 	let idx = 0;
@@ -16,9 +17,11 @@
 	$: active = isPartOfList ? activeSongIdx === idx : true;
 </script>
 
-<div class="song" class:active>
-	<slot />
-</div>
+{#if active}
+	<div in:fade class="song">
+		<slot />
+	</div>
+{/if}
 
 <style lang="scss">
 	.song {
@@ -26,8 +29,5 @@
 		:global(h3) {
 			@apply font-bold text-lg pt-3;
 		}
-	}
-	.song:not(.active) {
-		display: none;
 	}
 </style>
