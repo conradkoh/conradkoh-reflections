@@ -7,13 +7,13 @@
 	<span class="block pt-3 pb-3 text-sm text-gray-500 text-center">Conrad Koh</span>
 	<p>Words are an old tradition.</p>
 	<p>
-		As with any tradition, it have a stale taste, or a musty smell. Yet perhaps like stepping into a
-		shop full of antiques, a sense of wonder remains, for the hope of knowledge existed before, but
+		As with any tradition, it may have a stale taste, or a musty smell. Yet perhaps like stepping
+		into an antique shop, a sense of wonder remains, for the hope of knowledge existed before, but
 		now forgotten.
 	</p>
 	<p>
-		There is still much to be remember. And hopefully to one day be called to recollection by one
-		who deems it worthy.
+		There is still much to be remember. And hopefully to one day be called to recollection by
+		someone.
 	</p>
 	<p>
 		This is my recitation, my reflection, my attempt to remember. I hope you find something of use
