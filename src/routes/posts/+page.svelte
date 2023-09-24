@@ -10,41 +10,40 @@
 			<p>
 				Sing a new song, from the ends of the earth
 				<br />From the islands, a song declaring your worth
-				<br />Jesus, the lamb who was slain.
+				<br />Jesus, the lamb who was slain
 			</p>
 			<h3>Verse 2</h3>
 			<p>
 				Sing a new song, let creation be heard
 				<br />Join the chorus, sung in heaven and earth
-				<br /> Jesus, is coming again.
+				<br /> Jesus, is coming again
 			</p>
 			<h3>Pre-Chorus</h3>
 			<p>
-				We'll lift the song off to let every nation sing
+				We'll lift the song until every nation sings
 				<br />We're hastening the day of your appearing
-				<br />From the rising of the sun to its end
-				<br />Your name will be praised.
+				<br />From the rising of the sun to its setting
+				<br />Your name will be praised
 			</p>
 			<h3>Chorus</h3>
 			<p>
 				Worthy is the Lamb who was slain
 				<br /> Worth to receive all honor, power and praise
 				<br /> Be exalted, King of Glory
-				<br /> He's coming again.
+				<br /> He's coming again
 			</p>
 			<h3>Bridge</h3>
 			<p>
 				Until the islands sing Your song
 				<br />Until the closeness of Your law
 				<br />Until we hear the desert sing
-				<br />A song to welcome back the King.
+				<br />A song to welcome back the King
 			</p>
-			<br />
-			<p>
+			<p class="mt-4">
 				Until the nations love Your Name
-				<br />Until Jerusalem's awake
-				<br />Until we hear the final cry
-				<br />The day we see You on the clouds.
+				<br />Until Jerusalem's a praise
+				<br />Until we hear the final shout
+				<br />The day we see You on the clouds
 			</p>
 		</div>
 		<hr class="my-4" />
@@ -81,8 +80,9 @@
 				<br />One day You'll split the skies
 				<br />One day we'll hear the footsteps
 				<br />Of Him who is to come
-				<br />
-				<br />One day we'll stand in glory
+			</p>
+			<p class="mt-3">
+				One day we'll stand in glory
 				<br />Before the throne of God
 				<br />The King of heaven will reign
 				<br />In all the earth
@@ -138,6 +138,72 @@
 				<br />To every tribe and nation
 				<br />Your sacred invitation
 				<br />Make Your praise known Your name alone
+			</p>
+		</div>
+
+		<hr class="my-4" />
+		<div class="song">
+			<h2>Witness</h2>
+
+			<h3>Verse 1</h3>
+			<p>
+				We will be a witness
+				<br />To the ends of the earth
+				<br />We will tell of Your greatness
+				<br />And Your matchless worth
+			</p>
+			<h3>Pre-Chorus</h3>
+			<p>
+				We're longing for the day
+				<br />Every nation will proclaim
+				<br />You are God
+				<br />Until we see You face to face
+				<br />'Til You establish rule and reign
+				<br />We will say
+			</p>
+
+			<h3>Chorus</h3>
+			<p>
+				Let every tribe, every tongue
+				<br />Lift their voices as one
+				<br />Singing, "Worthy is the Lamb"
+				<br />We will go in Your name
+				<br />For Your glory and fame
+				<br />Singing, "Worthy is the Lamb"
+			</p>
+
+			<h3>Verse 2</h3>
+			<p>
+				There's a new song rising
+				<br />From the ends of the earth
+				<br />And in the darkest places
+				<br />We declare Your worth
+			</p>
+
+			<h3>Bridge</h3>
+			<p>
+				Standing on the sea of glass
+				<br />Before the throne, before the Lamb
+				<br />Hear creation crying, "Worthy"
+			</p>
+
+			<p class="mt-3">
+				You were faithful unto death
+				<br />You have loved us to the end
+				<br />Hear Your people singing, "Worthy"
+			</p>
+
+			<h3>Tag</h3>
+			<p>Worthy is the Lamb</p>
+
+			<h3>Outro</h3>
+			<p>
+				Let every tribe, every tongue
+				<br />Lift their voices as one
+				<br />Singing, "Worthy is the Lamb"
+				<br />We will go in Your name
+				<br />For Your glory and fame
+				<br />Singing, "Worthy is the Lamb"
 			</p>
 		</div>
 	</Post>
