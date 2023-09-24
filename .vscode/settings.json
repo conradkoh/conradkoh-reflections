@@ -3,4 +3,5 @@
 		"markdown": "html"
 	},
 	"emmet.excludeLanguages": []
+	"emmet.excludeLanguages": [],
 }
