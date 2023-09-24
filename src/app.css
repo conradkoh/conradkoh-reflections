@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-	@apply min-h-full font-sans bg-gray-100;
+	@apply min-h-full font-sans;
 }
 
 h1 {

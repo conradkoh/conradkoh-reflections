@@ -1,8 +1,8 @@
 <script>
-	import PageStyles from '$lib/components/page/PageStyles.svelte';
+	import DocumentStyles from '$lib/components/document/DocumentStyles.svelte';
 </script>
 
-<PageStyles>
+<DocumentStyles>
 	<h1 class="text-5xl block text-center">Reflections.</h1>
 	<span class="block pt-3 pb-3 text-sm text-gray-500 text-center">Conrad Koh</span>
 	<p>Words are an old tradition.</p>
@@ -19,4 +19,4 @@
 		This is my recitation, my reflection, my attempt to remember. I hope you find something of use
 		here.
 	</p>
-</PageStyles>
+</DocumentStyles>
