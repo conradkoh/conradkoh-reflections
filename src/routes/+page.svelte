@@ -27,3 +27,9 @@
 		<InternalLink href="/posts">View Posts</InternalLink>
 	</div>
 </DocumentStyles>
+
+<style>
+	p {
+		@apply pt-4;
+	}
+</style>

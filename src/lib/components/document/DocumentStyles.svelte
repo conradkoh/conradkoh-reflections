@@ -13,7 +13,7 @@
 			@apply min-h-screen max-w-2xl px-6 pt-6 mx-auto;
 		}
 		:global(p) {
-			@apply pt-4 leading-relaxed;
+			@apply leading-relaxed;
 		}
 	}
 </style>
