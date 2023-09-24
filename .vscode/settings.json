@@ -1,0 +1,6 @@
+{
+	"emmet.includeLanguages": {
+		"markdown": "html"
+	},
+	"emmet.excludeLanguages": []
+}
