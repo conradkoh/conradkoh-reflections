@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 body {
-	@apply min-h-full font-sans;
+	@apply min-h-full font-sans text-sm md:text-base;
 	background-color: rgba(248, 245, 240, 1);
 }
 
 h1 {
-	@apply text-5xl font-bold md:text-3xl;
+	@apply text-3xl font-bold md:text-3xl;
 }
 
 h2 {
