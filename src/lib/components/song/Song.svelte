@@ -23,11 +23,11 @@
 	</div>
 {/if}
 
-<style lang="scss">
+<style>
 	.song {
 		display: initial;
-		:global(h3) {
-			@apply font-bold text-lg pt-3;
-		}
+	}
+	.song :global(h3) {
+		@apply font-bold text-lg pt-3;
 	}
 </style>

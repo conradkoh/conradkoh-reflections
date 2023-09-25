@@ -244,7 +244,7 @@
 	</Post>
 </div>
 
-<style lang="scss">
+<style>
 	.post-list {
 		@apply my-10;
 	}

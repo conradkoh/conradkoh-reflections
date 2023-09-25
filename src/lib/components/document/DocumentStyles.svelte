@@ -4,16 +4,15 @@
 	</div>
 </div>
 
-<style lang="scss">
+<style>
 	.document {
 		@apply min-h-screen;
 		@apply font-serif;
-
-		.content {
-			@apply min-h-screen max-w-2xl px-6 pt-6 mx-auto;
-		}
-		:global(p) {
-			@apply leading-relaxed;
-		}
+	}
+	.document > .content {
+		@apply min-h-screen max-w-2xl px-6 pt-6 mx-auto;
+	}
+	.document :global(p) {
+		@apply leading-relaxed;
 	}
 </style>
